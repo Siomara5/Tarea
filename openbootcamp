@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!-- 
+    Este es mi primer comentario de dos líneas
+    Aprendiendo a documentar mi código con OpenBootcamp 
+    -->
+        <div>
+            <ul>
+                <li><a id="video" href="https://youtu.be/SDiYC1MY0gs">ASMR Ear Blowing & Up Close Whispering (trigger words, ear to ear, mouth sounds)</a></li>
+                <li><a id="video" href="https://youtu.be/eDOAzu6RjsI">Hipnosis para DORMIR desarrollando Calma Mental 🌜💤</a></li>
+                <li><a id="video" href="https://youtu.be/OEGIYYXRwc4">Alien Abduction ASMR</a></li>
+            </ul>
+        </div>
+    </body>
+</html>
